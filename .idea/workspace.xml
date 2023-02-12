@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71cc9302-9f6a-4a79-b0ea-b030d36ff745" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework_Api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task4/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task4/Tv.java" afterDir="false" />
-    </list>
+    <list default="true" id="71cc9302-9f6a-4a79-b0ea-b030d36ff745" name="Changes" comment="&quot;homework&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +42,14 @@
       <option name="presentableId" value="Default" />
       <updated>1674239920780</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;homework&quot;">
+      <created>1676205366908</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676205366908</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,5 +62,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;homework&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;homework&quot;" />
   </component>
 </project>
